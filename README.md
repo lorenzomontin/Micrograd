@@ -6,6 +6,8 @@ An autograd engine built from scratch by following
 This whole project is learning and understanding exactly how backpropagation works under the hood, without relying on PyTorch or
 any other autograd framework to do the math for me.
 
+<img width="1133" height="680" alt="image" src="https://github.com/user-attachments/assets/d3652623-744b-4406-90fd-a9c50cca4c92" />
+
 ## What's in here
 
 - **`engine.py`**: the `Value` class: a scalar wrapper that tracks its value,
